@@ -1,0 +1,446 @@
+/* ============================================================
+   FLEXOKI COLOR PALETTE — https://stephango.com/flexoki
+   ============================================================ */
+ 
+:root {
+  --flexoki-paper:     #FFFCF0;
+  --flexoki-black:     #100F0F;
+ 
+  --flexoki-50:        #F2F0E5;
+  --flexoki-100:       #E6E4D9;
+  --flexoki-150:       #DAD8CE;
+  --flexoki-200:       #CECDC3;
+  --flexoki-300:       #B7B5AC;
+  --flexoki-400:       #9F9D96;
+  --flexoki-500:       #878580;
+  --flexoki-600:       #6F6E69;
+  --flexoki-700:       #575653;
+  --flexoki-800:       #403E3C;
+  --flexoki-850:       #343331;
+  --flexoki-900:       #282726;
+  --flexoki-950:       #1C1B1A;
+ 
+  --flexoki-red-400:   #D14D41;
+  --flexoki-red-600:   #AF3029;
+  --flexoki-orange-400:#DA702C;
+  --flexoki-orange-600:#BC5215;
+  --flexoki-yellow-400:#D0A215;
+  --flexoki-yellow-600:#AD8301;
+  --flexoki-green-400: #879A39;
+  --flexoki-green-600: #66800B;
+  --flexoki-cyan-400:  #3AA99F;
+  --flexoki-cyan-600:  #24837B;
+  --flexoki-blue-400:  #4385BE;
+  --flexoki-blue-600:  #205EA6;
+  --flexoki-purple-400:#8B7EC8;
+  --flexoki-purple-600:#5E409D;
+  --flexoki-magenta-400:#CE5D97;
+  --flexoki-magenta-600:#A02F6F;
+}
+ 
+/* ============================================================
+   LIGHT / DARK THEME
+   ============================================================ */
+ 
+:root {
+  --background-color:   var(--flexoki-paper);
+  --text-color:         var(--flexoki-black);
+  --link-color:         var(--flexoki-blue-400);
+  --link-hover-color:   var(--flexoki-blue-600);
+  --blockquote-color:   var(--flexoki-600);
+  --code-background:    var(--flexoki-100);
+  --code-text-color:    var(--flexoki-900);
+  --border-color:       var(--flexoki-200);
+}
+ 
+html.dark {
+  --background-color:   var(--flexoki-black);
+  --text-color:         var(--flexoki-200);
+  --link-color:         var(--flexoki-blue-400);
+  --link-hover-color:   var(--flexoki-purple-400);
+  --blockquote-color:   var(--flexoki-500);
+  --code-background:    var(--flexoki-900);
+  --code-text-color:    var(--flexoki-200);
+  --border-color:       var(--flexoki-800);
+}
+ 
+/* ============================================================
+   RESET & BASE
+   ============================================================ */
+ 
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ 
+body, body * {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+ 
+body {
+  font-family: 'Ubuntu', sans-serif;
+  margin: auto;
+  padding: 20px;
+  max-width: 720px;
+  text-align: left;
+  background-color: var(--background-color);
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.6;
+  color: var(--text-color);
+  font-size: 110%;
+}
+ 
+/* ============================================================
+   TYPOGRAPHY
+   ============================================================ */
+ 
+h1, h2, h3, h4, h5, h6, strong, b {
+  color: var(--text-color);
+  font-family: 'Ubuntu', sans-serif;
+}
+ 
+h1 { font-size: 1.5rem; margin: 1.5rem 0 0.5rem; }
+h2 { font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
+h3 { font-size: 1rem;   margin: 1.25rem 0 0.4rem; }
+ 
+p {
+  margin-bottom: 1.1rem;
+}
+ 
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 100ms;
+}
+ 
+a:hover {
+  color: var(--link-hover-color);
+}
+ 
+blockquote {
+  border-left: 1px solid var(--blockquote-color);
+  color: var(--blockquote-color);
+  padding-left: 20px;
+  font-style: italic;
+  margin: 1.25rem 0;
+}
+ 
+code {
+  padding: 2px 5px;
+  background-color: var(--code-background);
+  color: var(--code-text-color);
+  font-size: 0.88em;
+  border-radius: 3px;
+}
+ 
+pre code {
+  display: block;
+  padding: 20px;
+  white-space: pre-wrap;
+  font-size: 14px;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+ 
+div.highlight pre { background-color: initial; color: initial; }
+div.highlight code { background-color: unset; color: unset; }
+ 
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2rem 0;
+}
+ 
+img { max-width: 100%; }
+table { width: 100%; }
+textarea { width: 100%; font-size: 16px; }
+input { font-size: 16px; }
+ 
+ul, ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+ 
+li { margin-bottom: 0.2rem; }
+ 
+/* ============================================================
+   HEADER & NAV
+   ============================================================ */
+ 
+header {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 2rem;
+}
+ 
+header a {
+  color: var(--text-color);
+}
+ 
+header a:hover {
+  color: var(--link-color);
+}
+ 
+.site-title {
+  font-weight: 400;
+  font-size: 125%;
+  text-decoration: none;
+  color: var(--text-color);
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 100ms;
+}
+ 
+.site-title:hover {
+  color: var(--link-color);
+}
+ 
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+ 
+.nav-links a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+ 
+.nav-links a:hover {
+  color: var(--link-color);
+}
+ 
+/* ============================================================
+   THEME TOGGLE
+   ============================================================ */
+ 
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-left: 0.5rem;
+  padding: 0;
+  line-height: 1;
+  color: var(--text-color);
+  font-size: 1.1rem;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+ 
+#theme-toggle:hover {
+  opacity: 1;
+}
+ 
+/* ============================================================
+   FOOTER
+   ============================================================ */
+ 
+footer {
+  padding: 25px;
+  text-align: center;
+  color: var(--flexoki-600);
+  font-size: 0.85rem;
+  margin-top: 3rem;
+  border-top: 1px solid var(--border-color);
+}
+ 
+footer a {
+  color: var(--flexoki-600);
+  text-decoration: none;
+}
+ 
+footer a:hover {
+  color: var(--link-color);
+}
+ 
+/* ============================================================
+   HOME PAGE
+   ============================================================ */
+ 
+.home {
+  margin-top: 0.5rem;
+}
+ 
+.home-section {
+  margin-top: 2.5rem;
+}
+ 
+.home-section h2 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--flexoki-600);
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+ 
+.home-section h2 a {
+  color: var(--flexoki-600);
+  text-decoration: none;
+}
+ 
+.home-section h2 a:hover {
+  color: var(--link-color);
+}
+ 
+.home-section ul {
+  list-style: none;
+  padding: 0;
+}
+ 
+.home-section li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+ 
+.home-section li:last-child {
+  border-bottom: none;
+}
+ 
+.home-section li a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+ 
+.home-section li a:hover {
+  color: var(--link-color);
+}
+ 
+/* ============================================================
+   SECTION (LIST) PAGES
+   ============================================================ */
+ 
+.section-description {
+  color: var(--flexoki-600);
+  margin-bottom: 2rem;
+}
+ 
+ul.blog-posts {
+  list-style-type: none;
+  padding: 0;
+}
+ 
+ul.blog-posts li {
+  display: flex;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+ 
+ul.blog-posts li:last-child {
+  border-bottom: none;
+}
+ 
+ul.blog-posts li span {
+  flex: 0 0 130px;
+  color: var(--flexoki-600);
+  font-size: 0.85rem;
+}
+ 
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+ 
+.post-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+ 
+.post-list li:last-child {
+  border-bottom: none;
+}
+ 
+.post-list a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+ 
+.post-list a:hover {
+  color: var(--link-color);
+}
+ 
+.post-description {
+  color: var(--flexoki-600);
+  font-size: 0.88rem;
+  margin-top: 0.15rem;
+  margin-bottom: 0;
+}
+ 
+/* ============================================================
+   POST / PAGE
+   ============================================================ */
+ 
+.post-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+ 
+.post-header h1 {
+  margin-top: 0;
+}
+ 
+.post-content {
+  margin-top: 1.5rem;
+}
+ 
+/* ============================================================
+   DATES & TAGS
+   ============================================================ */
+ 
+.date {
+  color: var(--flexoki-600);
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+ 
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.75rem;
+}
+ 
+.tag {
+  background: var(--border-color);
+  color: var(--flexoki-600);
+  font-size: 0.78rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+}
+ 
+/* ============================================================
+   MISC
+   ============================================================ */
+ 
+.helptext { color: var(--flexoki-600); font-size: small; }
+.errorlist { color: var(--flexoki-orange-400); font-size: small; }
+ 
+.footnote-definition {
+  padding: 0.5em 0 0.5em 1em;
+  font-size: 0.88rem;
+  color: var(--flexoki-600);
+}
+ 
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+ 
+@media (max-width: 480px) {
+  body { font-size: 100%; padding: 16px; }
+  .home-section li { flex-direction: column; gap: 0.1rem; }
+  ul.blog-posts li { flex-direction: column; }
+  ul.blog-posts li span { flex: none; }
+}

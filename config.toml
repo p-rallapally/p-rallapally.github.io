@@ -1,0 +1,19 @@
+base_url = "https://p-rallapally.github.io/"
+title = "p-rallapally"
+description = "Personal site"
+compile_sass = false
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+taxonomies = [
+    { name = "tags" },
+]
+
+[markdown]
+render_emoji = true
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+author = "p-rallapally"
