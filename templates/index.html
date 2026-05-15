@@ -2,12 +2,7 @@
 
 {% block content %}
 <section class="home">
-  <p>
-    Hello! I'm p-rallapally. I'm a [your description here].
-  </p>
-  <p>
-    This is where I document things I've built, written, and thought about.
-  </p>
+  {{ section.content | safe }}
 
   {% set writing = get_section(path="writing/_index.md") %}
   {% if writing.pages %}
