@@ -2,18 +2,21 @@
 title = "Now"
 +++
 
-*Last updated: May 2026.*
+*Last updated: May 2026*
 
-A [now page](https://nownow.com) — what I'm focused on at the moment.
 
 **Working on**
 
-- This website
+- This website lol
+- Modeling host-parasite interactions over time and space using multilayer networks
+- Creating the front-end for the UCSB RecRec
 
 **Reading**
 
-- Something good, hopefully
+- Made it through the first thirty pages of Dune
+- _I Will Make You Rich_, by Ramit Sethi
 
 **Thinking about**
 
-- Replace this with whatever is actually on your mind
+- how front-end integration actually works
+- my WiFi has been super erratic over the past couple hours and I have zero clue why
