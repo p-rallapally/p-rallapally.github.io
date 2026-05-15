@@ -444,3 +444,16 @@ ul.blog-posts li span {
   ul.blog-posts li { flex-direction: column; }
   ul.blog-posts li span { flex: none; }
 }
+
+.interests {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2.5rem;
+}
+
+@media (max-width: 480px) {
+  .interests {
+    grid-template-columns: 1fr;
+  }
+}

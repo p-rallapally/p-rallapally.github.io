@@ -4,33 +4,23 @@
 <section class="home">
   {{ section.content | safe }}
 
-  {% set writing = get_section(path="writing/_index.md") %}
-  {% if writing.pages %}
-  <div class="home-section">
-    <h2><a href="/writing">writing</a></h2>
+<div class="interests">
+  <div class="interest-col">
+    <h2>🤓</h2>
     <ul>
-      {% for post in writing.pages | slice(end=5) %}
-      <li>
-        <a href="{{ post.permalink }}">{{ post.title }}</a>
-        <span class="date">{{ post.date | date(format="%Y-%m-%d") }}</span>
-      </li>
-      {% endfor %}
-    </ul>
+      <li>x</li>
+      <li>y</li>
+      <li>z</li>
   </div>
-  {% endif %}
+  <div class="interest-col">
+    <h2>🤡</h2>
+    <ul>
+      <li>x</li>
+      <li>y</li>
+      <li>z</li>
+  </div>
+</div>
 
-  {% set projects = get_section(path="projects/_index.md") %}
-  {% if projects.pages %}
-  <div class="home-section">
-    <h2><a href="/projects">projects</a></h2>
-    <ul>
-      {% for project in projects.pages | slice(end=5) %}
-      <li>
-        <a href="{{ project.permalink }}">{{ project.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
+
 </section>
 {% endblock content %}
