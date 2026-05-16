@@ -6,7 +6,7 @@ Hello! 😁
 
 I'm Pratyush. I study Statistics and Biology at UC Santa Barbara.
 
-Getting ragebaited online stopped being fulfilling, so I made this! This is moreso for myself to keep track of who I am and what I've done, but feel free to click around.
+Getting ragebaited online stopped being fulfilling, so I made this instead! This is moreso for myself to keep track of who I am and what I've done, but feel free to click around.
 
  - [Here](/projects/) are some things I've done
  - [These](/now/) are what I'm currently working on

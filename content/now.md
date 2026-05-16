@@ -16,6 +16,11 @@ title = "Now"
 - Made it through the first thirty pages of Dune
 - _I Will Make You Rich_, by Ramit Sethi
 
+**Watching**
+
+- Malcolm in the Middle
+- the original Star Wars trilogy
+
 **Thinking about**
 
 - how front-end integration actually works

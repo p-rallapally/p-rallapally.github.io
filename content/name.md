@@ -6,9 +6,9 @@ No hard feelings, there are a lot of consonants.
 
 I usually introduce myself as /prætˈjuːʃ/ (prat-YOOSH).
 
-If you're curious, the lore-accurate pronunciation is /prəˈtjuːʃ/ (pruh-TYOOSH).
+If you're curious, the lore-accurate pronunciation is /prət̪juʂ/ (pruh-TYOOSH).
 
-Sometimes, I code-switch, but I'd like to think I'm pretty consistent about it[^1]. That being said, it would be pretty unreasonable to expect anyone who speaks American English to adhere to that. 
+Sometimes, I code-switch, but I'd like to think I'm pretty consistent about it[^1]. That being said, it would be pretty unreasonable to expect anyone who speaks American English to rigorously adhere to the OG pronunciation. 
 
 Either pronunciation is fine; as long as you try your best and you're within the ballpark. Truthfully, I haven't actually spoken to another Pratyush yet, so I'm not sure what the consensus is. I'll get back to you on that when I can.
 

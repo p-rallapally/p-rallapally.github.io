@@ -1,11 +1,12 @@
 +++
-title = "Example Project"
-date = 2026-05-13
-description = "A short description of what this project does."
-
+title = "Bot or Not?"
+date = 2026-03-20
+description = "investigating how my friend keeps solving every Wordle in three guesses"
 [extra]
 link = "https://github.com/p-rallapally"
 +++
+
+<span class="date">Winter 2026</span>
 
 Replace this with a real project. Describe what it is, why you built it, what you learned.
 

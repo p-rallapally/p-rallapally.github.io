@@ -1,6 +1,6 @@
 +++
 title = "Projects"
-description = "Things I've built."
-sort_by = "date"
+description = "Smattering of things I've worked on."
+sort_by = "title"
 template = "section.html"
 +++

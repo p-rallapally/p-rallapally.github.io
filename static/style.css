@@ -309,7 +309,6 @@ footer a:hover {
   align-items: baseline;
   gap: 1rem;
   padding: 0.35rem 0;
-  border-bottom: 1px solid var(--border-color);
 }
  
 .home-section li:last-child {
@@ -392,7 +391,6 @@ ul.blog-posts li span {
 .post-header {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid var(--border-color);
 }
  
 .post-header h1 {
