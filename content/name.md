@@ -15,4 +15,4 @@ Either pronunciation is fine; as long as you try your best and you're within the
 Oh, also:  Raw-luh-paw-lee
 
 
-[^1]: If I ever introduced myself as "Prat", we are either close friends and I didn't feel like bringing it up, or I honestly didn't think you could handle "Pratyush" conversationally. Either way, I took the coward's way out. 
+[^1]: If I ever introduced myself as "Prat", we are either close friends and I didn't feel like bringing it up, or I didn't want to muck the flow of conversation by walking everyone through "Pratyush". Either way, I took the coward's way out. 
