@@ -19,9 +19,8 @@ title = "Now"
 **Watching**
 
 - Malcolm in the Middle
-- the original Star Wars trilogy
+- 
 
 **Thinking about**
 
-- how front-end integration actually works
 - my WiFi has been super erratic over the past couple hours and I have zero clue why

@@ -4,7 +4,7 @@ title = "Home"
 
 Hello! 😁 
 
-I'm Pratyush. I study Statistics and Biology at UC Santa Barbara.
+I'm Pratyush; I study Statistics and Biology at UC Santa Barbara.
 
 Getting ragebaited online stopped being fulfilling, so I made this instead! This is moreso for myself to keep track of who I am and what I've done, but feel free to click around.
 
@@ -18,7 +18,7 @@ Here are some things I'm into:
     <div class="interest-col">
       <h2>🤓</h2>
       <ul>
-        <li>Complex Systems</li>
+        <li>Systems Biology</li>
         <li>Network Epidemiology</li>
         <li>Public Health Data</li>
       </ul>
@@ -37,8 +37,9 @@ Here are some things I'm into:
 
 Some other miscellaneous fun facts about me: 
 
-- I have a 2408 day streak on Duolingo
+- I have a 2408 day streak on Duolingo[^1]
 - I'm one of six people that play the [carillon](https://music.ucsb.edu/participate/ensembles/carillon) at UCSB
 - I performed the national anthem for the 
 <a href="https://en.wikipedia.org/wiki/Domingo_Germ%C3%A1n%27s_perfect_game" target="_blank">worst game in Oakland A's history</a>
 
+[^1]: As of May 2026
