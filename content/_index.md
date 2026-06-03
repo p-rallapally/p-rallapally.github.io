@@ -4,12 +4,12 @@ title = "Home"
 
 Hello! 😁 
 
-I'm Pratyush; I study Statistics and Biology at UC Santa Barbara.
+I'm Pratyush; I study statistics and biology at UC Santa Barbara.
 
 Getting ragebaited online stopped being fulfilling, so I made this instead! This is moreso for myself to keep track of who I am and what I've done, but feel free to click around.
 
  - [Here](/projects/) are some things I've done
- - [These](/now/) are what I'm currently working on
+ - [These](/now/) are what I'm currently occupied with
  - [This](/name/) is how you say my name
 
 Here are some things I'm into:
@@ -18,8 +18,8 @@ Here are some things I'm into:
     <div class="interest-col">
       <h2>🤓</h2>
       <ul>
-        <li>Systems Biology</li>
         <li>Network Epidemiology</li>
+        <li>Systems (broadly)</li>
         <li>Public Health Data</li>
       </ul>
     </div>

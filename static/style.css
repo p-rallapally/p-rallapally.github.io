@@ -389,7 +389,7 @@ ul.blog-posts li span {
    ============================================================ */
  
 .post-header {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   padding-bottom: 1rem;
 }
  
@@ -398,7 +398,7 @@ ul.blog-posts li span {
 }
  
 .post-content {
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
 }
  
 /* ============================================================

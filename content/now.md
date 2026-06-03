@@ -4,9 +4,8 @@ title = "Now"
 
 **Working on**
 
-- Making this website look pretty
-- Modeling host-parasite interactions under the [Briggs lab](https://briggslab.eemb.ucsb.edu/)
-- Designing the front-end for the UCSB RecRec
+- Making this website look presentable
+- Modeling host-parasite interactions under the [Briggs Lab](https://briggslab.eemb.ucsb.edu/)
 
 **Reading**
 
@@ -22,4 +21,4 @@ title = "Now"
 [Here](/lists/) are some movies and albums I’ve been keeping track of
 
 
-*<h3>Last updated: May 2026</h3>*
+*Last updated: May 2026*

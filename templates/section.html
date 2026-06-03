@@ -19,8 +19,8 @@
     {% for page in section.pages %}
     <li>
       <a href="{{ page.permalink }}">{{ page.title }}</a>
-      {% if page.date %}
-      <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+      {% if page.extra.label %}
+      <span class="date">{{ page.extra.label }}</span>
       {% endif %}
       {% if page.description %}
       <p class="post-description">{{ page.description }}</p>
