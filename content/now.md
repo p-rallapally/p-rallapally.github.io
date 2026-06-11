@@ -4,8 +4,8 @@ title = "Now"
 
 **Working on**
 
-- Making this website look presentable
 - Modeling host-parasite interactions under the [Briggs Lab](https://briggslab.eemb.ucsb.edu/)
+- Making this website look presentable
 
 **Reading**
 
