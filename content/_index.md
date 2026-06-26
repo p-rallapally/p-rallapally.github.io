@@ -37,9 +37,9 @@ Here are some things I'm into:
 
 Some other miscellaneous fun facts about me: 
 
-- I have a 2408 day streak on Duolingo[^1]
+- I have a 2443 day streak on Duolingo[^1]
 - I'm one of six people that play the [carillon](https://music.ucsb.edu/participate/ensembles/carillon) at UCSB
 - I performed the national anthem for the 
 <a href="https://en.wikipedia.org/wiki/Domingo_Germ%C3%A1n%27s_perfect_game" target="_blank">worst game in Oakland A's history</a>
 
-[^1]: As of May 2026
+[^1]: As of June 2026

@@ -9,8 +9,9 @@ title = "Now"
 
 **Reading**
 
-- Made it through the first thirty pages of _Dune_
-- _I Will Make You Rich_, by Ramit Sethi
+-  _Dune_
+- _I Will Make You Rich_, Ramit Sethi
+- _California: A History_, Kevin Starr 
 
 **Watching**
 
