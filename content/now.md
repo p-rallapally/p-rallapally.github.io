@@ -16,10 +16,9 @@ title = "Now"
 **Watching**
 
 - Malcolm in the Middle
-- Dimension 20: Fantasy High
 
 
-[Here](/lists/) are some movies and albums I’ve been keeping track of
+[Here](/lists/) are some movies and albums I’ve been keeping track of.
 
 
 *Last updated: May 2026*

@@ -6,7 +6,7 @@ label = "w26"
 link = "https://github.com/p-rallapally/wordle-detector"
 +++
 
-(tldr; I tried to use ML to determine whether or not my friend was cheating at Wordle. still unclear.)
+(tldr; I tried to use ML to determine whether or not my friend was cheating at Wordle. still unclear tbh.)
 
 **What it is** 
 
@@ -16,7 +16,7 @@ A machine learning classifier trained on simulated Wordle game data to distingui
 
 Every day, my friend group posts their Wordle results. One friend kept solving them in two or three guesses. He claims he's "lucky", but there's genuinely no way there isn't something going on. Since Wordle only shares the emoji grid (no actual guesses), I wondered whether those little squares still contained enough information to determine if someone was cheating or not.
 
-At the time, I was enrolled in PSTAT 231 (Statistical Machine Learning), and it seemed like a good opportunity to try something out for the final project. 
+At the time, I was enrolled in PSTAT 231 (Stat. Machine Learning), and it seemed like a good opportunity to try something out for the final project. 
 
 **What I did** 
 

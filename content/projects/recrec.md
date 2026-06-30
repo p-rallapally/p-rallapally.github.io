@@ -22,7 +22,7 @@ Luckily, the Rec Cen website [publicly displays](https://recreation.ucsb.edu/fac
 
 No :)
 
-This quarter, Erik and I were in PSTAT 134 (Statistical Data Science), so we figured we could build off our scraped data and prediction model to build a tiered recommender system that would incorporate workout preferences and preferred time slots to generate the ideal workout schedule. 
+This quarter, Erik and I were in PSTAT 134 (Stat. Data Science), so we figured we could build off our scraped data and prediction model to build a tiered recommender system that would incorporate workout preferences and preferred time slots to generate the ideal workout schedule. 
 
 Going beyond the project requirements, I wanted to try making something the average person would actually use; specifically, a deployed + fully developed simple frontend.  
 
@@ -63,6 +63,6 @@ Going beyond the project requirements, I wanted to try making something the aver
 [github](https://github.com/ErikRodriguez29/Rec-Rec)
 
 
-[^1]: this time, "I" = "we"
+[^1]: this time, "I" = "we", being Erik, me, two German exchange students, and [Matthew](https://www.linkedin.com/in/matthew-zhang-1b3b23272/)
 [^2]: Our group had initially put in our design into a single Claude prompt, and its frontend output was so good that we had disregard it entirely (else we wouldn't have learned anything meaningful)
 [^3]: that said, it had several unexpected benefits, including forcing me to be more productive during the day and ensuring the best consistent sleep I've had in years. Sucked initially but now it only sucks for my roommates who hear my 5:30 alarm (sorry not sorry, fellas).

@@ -7,6 +7,8 @@ Unfortunately, you can only listen to K-pop for so long.
 
 ## Recently listened
 
+- *There's A Riot Goin' On* - Sly & The Family Stone
+- *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* - David Bowie
 - *Band On The Run* - Paul McCartney and Wings
 - *Songs In The Key Of Life* - Stevie Wonder
 - *The Black Saint And The Sinner Lady* -  Charles Mingus 
