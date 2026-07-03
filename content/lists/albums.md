@@ -7,6 +7,8 @@ Unfortunately, you can only listen to K-pop for so long.
 
 ## Recently listened
 
+- *Led Zeppelin III* - Led Zeppelin
+- *GreenGreen* - Cortis
 - *There's A Riot Goin' On* - Sly & The Family Stone
 - *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* - David Bowie
 - *Band On The Run* - Paul McCartney and Wings

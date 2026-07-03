@@ -18,7 +18,7 @@ Like at many schools, the Rec Cen at UCSB has a tendency to be full during peak 
 1) workouts take longer than they need to
 2) I hate asking or being asked "how many sets do you have left?"
 
-Luckily, the Rec Cen website [publicly displays](https://recreation.ucsb.edu/facilities/livecount) how many people are in each part of the gym. My initial pet project was to scrape the data and build a prediction model for myself to identify low/high-occupancy times (was eventually offloaded to my good friend and roommate Erik). Preliminary results, affirming common sense, revealed that the emptiest time —always and everywhere— was 6am.
+Luckily, the Rec Cen website [publicly displays](https://recreation.ucsb.edu/facilities/livecount) how many people are in each part of the gym. My initial pet project was to scrape the data and build a prediction model for myself to identify low/high-occupancy times (was eventually offloaded to my good friend and roommate [Erik](https://www.linkedin.com/in/erod298/)). Preliminary results, affirming common sense, revealed that the emptiest time —always and everywhere— was 6am.
 
 No :)
 
