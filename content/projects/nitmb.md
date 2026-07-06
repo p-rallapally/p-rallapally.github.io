@@ -31,7 +31,7 @@ Somehow, I had gotten into an applied math REU at Northwestern as a freshman wit
 **What I learned**
 
 - What the research lifestyle is actually like
-- Several points of improvement of my character and work ethic
+- Several points of improvement for my character and work ethic
 - Rigor is a worthy investment
 - The existence of network science (would prove to be influential later on)
 

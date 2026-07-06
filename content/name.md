@@ -15,4 +15,4 @@ Either is fine; as long as you try your best and you're within the ballpark. Tru
 Oh, also:  Raw-luh-paw-lee
 
 
-[^1]: If I've ever introduced myself as "Prat", we were either close friends and I didn't feel like bringing it up, or I didn't want to muck up the flow of conversation by walking everyone through "Pratyush". Either way, I took the coward's way out. 
+[^1]: If I've ever introduced myself as "Prat", we were either close friends and I didn't feel like bringing it up, or I didn't want to disrupt the natural flow of conversation by walking everyone through "Pratyush". Either way, I took the coward's way out :).

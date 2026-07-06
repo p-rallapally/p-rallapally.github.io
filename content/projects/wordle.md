@@ -14,7 +14,7 @@ A machine learning classifier trained on simulated Wordle game data to distingui
 
 **Context** 
 
-Every day, my friend group posts their Wordle results. One friend kept solving them in two or three guesses. He claims he's "lucky", but there's genuinely no way there isn't something going on. Since Wordle only shares the emoji grid (no actual guesses), I wondered whether those little squares still contained enough information to determine if someone was cheating or not.
+Every day, my friend group posts their Wordle results. One friend kept solving them in two or three guesses. He claims he's "lucky", but there's genuinely no way there isn't something going on. Since Wordle only shares the emoji grid (no actual guesses), I wondered whether the squares still contained enough information to determine if someone was cheating or not.
 
 At the time, I was enrolled in PSTAT 231 (Stat. Machine Learning), and it seemed like a good opportunity to try something out for the final project. 
 
