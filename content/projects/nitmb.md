@@ -1,8 +1,12 @@
 +++
 title = "NITMB"
 description = "taking the math pill"
+weight = 1
+
 [extra]
+
 label = "su24"
+type = "🤓"
 +++
 
 (tldr; toured Chicago and learned how awesome and ubiquitous math can actually be)

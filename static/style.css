@@ -471,9 +471,14 @@ ul.blog-posts li span {
   font-size: 2rem;
 }
 
-
 @media (max-width: 480px) {
   .interests {
     grid-template-columns: 1fr;
   }
+}
+
+.project-tag {
+  font-size: 1.4rem;
+  margin-left: 0.25rem;
+  vertical-align: middle;
 }

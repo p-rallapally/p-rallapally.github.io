@@ -1,6 +1,6 @@
 +++
 title = "Projects"
-description = "Smattering of things I've worked on."
-sort_by = "title"
+description = "Ranges from data for good (🤓) to data for me (🤡)"
+sort_by = "weight"
 template = "section.html"
 +++

@@ -1,9 +1,12 @@
 +++
 title = "RecRec"
 description = "please stop making me wake up at 6am"
+weight = 3
+
 [extra]
+
 label = "s26"
-link = "https://github.com/ErikRodriguez29/Rec-Rec"
+type = "🤡"
 +++
 
 (tldr; selfish forecasting model became a recommender system for the people)

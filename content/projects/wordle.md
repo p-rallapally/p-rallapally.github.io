@@ -1,9 +1,10 @@
 +++
 title = "Bot or Not?"
 description = "investigating how my friend keeps solving every Wordle in three guesses"
+weight = 2
 [extra]
+type = "🤡"
 label = "w26"
-link = "https://github.com/p-rallapally/wordle-detector"
 +++
 
 (tldr; I tried to use ML to determine whether or not my friend was cheating at Wordle. still unclear tbh.)
