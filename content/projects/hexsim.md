@@ -44,10 +44,15 @@ A spatially explicit simulation model to predict invasive bullfrog populations a
 - Yet another push towards math and modeling 
 - My lively presentation at the poster symposium ended up costing me at the Undergrad Slam for being "too theatrical"; the lesson learned here is to know your audience
 
+**Links**
 
-[^1] Real things people have tried in the field include: catching by hand (too fast), crushing their eggs (easily replaceable), relocating them (they come back), putting up fences (they go over), shooting them with a gun (sounds hard because it is)
-
-[^2] How the simulations work: the map is split up into a grid of hexagons, each of with has its own environmental data gleaned from map photos with a collective habitability score. Based on the biological frog data, the software walks through time stages that predict where each individual will move throughout the map, repeated for a custom amount of organisms. 
+<a href="/urs copy.jpg" target="_blank">poster</a>
 
 
-<a href="/urs copy.pptx" target="_blank">poster</a>
+
+[^1]: Real things people have tried in the field include: catching by hand (too fast), crushing their eggs (easily replaceable), relocating them (they come back), putting up fences (they go over), shooting them with a gun (sounds hard because it is)
+
+[^2]: How the simulations work: the map is split up into a grid of hexagons, each of with has its own environmental data gleaned from map photos with a collective habitability score. Based on the biological frog data, the software walks through time stages that predict where each individual will move throughout the map, repeated for a custom amount of organisms. 
+
+
+
