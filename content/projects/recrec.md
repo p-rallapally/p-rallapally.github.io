@@ -1,10 +1,9 @@
 +++
 title = "RecRec"
 description = "please stop making me wake up at 6am"
-weight = 3
+weight = 4
 
 [extra]
-
 label = "s26"
 type = "🤡"
 +++
@@ -47,19 +46,19 @@ Going beyond the project requirements, I wanted to try making something the aver
 - I was beyond my depth past the modeling steps and was leaning hard on my CS major groupmates to guide me through the deployment process
 - Storing the scraped data quickly became untenable; our solution was to use Erik's abandoned Android since we didn't have access to any free cloud services
 
-**in hindsight**
+**In hindsight**
 
-- I would have been more aggressive at finding out how the attendance was determined; the Rec Cen department basically curved all of our attempts at investigating the data sources and it adds a considerable question mark on the attendance counts
-- I wish I made more commits to the Github repo; all my contributions were pushed via Erik, and the repo's contribution graph is not looking great for me
+- I would have been more aggressive at finding out how the attendance was determined; the Rec Cen department basically stonewalled all of our attempts at investigating the data sources and it adds a considerable question mark on the attendance counts
+- I wish I made more commits to the Github repo; the repo's contribution graph is not looking great for me
 - I ended up quickly caving to the 6am gym life anyway[^3]
 
-**up next?**
+**Up next?**
 
-- As it turns out, there is an entire bustling [subfield](https://catalog.ucsb.edu/courses/PSTAT%20174) of statistics that deals specifically with forecasting; using those models would likely yield different results than the ML models we were familiar with
+- As it turns out, there is an entire bustling [subfield](https://catalog.ucsb.edu/courses/PSTAT%20174) of statistics that deals specifically with forecasting; using those models would likely yield more robust results than the ML models we were familiar with
 - Incorporating Rec Cen fitness classes into the occupancy predictions
 - Reach out to the Rec Cen themselves to allow them to allocate staffing based on predicted occupancies
 
-**links**
+**Links**
 
 [try it out!](https://rec-rec.gauchohosting.com/)
 
@@ -68,4 +67,4 @@ Going beyond the project requirements, I wanted to try making something the aver
 
 [^1]: this time, "I" = "we", being Erik, me, two German exchange students, and [Matthew](https://www.linkedin.com/in/matthew-zhang-1b3b23272/)
 [^2]: Our group had initially put in our design into a single Claude prompt, and its frontend output was so good that we had disregard it entirely (else we wouldn't have learned anything meaningful)
-[^3]: that said, it had several unexpected benefits, including forcing me to be more productive during the day and ensuring the best consistent sleep I've had in years. Sucked initially but now it only sucks for my roommates who hear my 5:30 alarm (sorry not sorry, fellas).
+[^3]: that said, it had several unexpected benefits, including forcing me to be more productive during the day and ensuring the best consistent sleep I've had in years. Sucked initially, but now it only sucks for my roommates who hear my 5:30 alarm (sorry not sorry, fellas).

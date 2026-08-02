@@ -4,12 +4,11 @@ description = "taking the math pill"
 weight = 1
 
 [extra]
-
 label = "su24"
 type = "🤓"
 +++
 
-(tldr; toured Chicago and learned how awesome and ubiquitous math can actually be)
+(tldr; toured Chicagoland and learned how ubiquitous math is)
 
 **What it is** 
 
@@ -37,5 +36,8 @@ Somehow, I had gotten into an applied math REU at Northwestern as a freshman wit
 - What the research lifestyle is actually like
 - Several points of improvement for my character and work ethic
 - Rigor is a worthy investment
-- The existence of network science (would prove to be influential later on)
+
+**In hindsight** 
+- This was the experience that inspired me to add statistics as a double major after watching my cohort of math majors pick up the biology fairly easily
+- The lab that I worked in specialized in "complex systems" and was adjacent to one that worked in network science; despite not knowing what either was at the time, both would become super relevant to me way down the line
 
