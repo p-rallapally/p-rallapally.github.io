@@ -18,9 +18,9 @@ Here are some things I'm into:
     <div class="interest-col">
       <h2>🤓</h2>
       <ul>
-        <li>Network Epidemiology</li>
-        <li>Systems (broadly)</li>
-        <li>Public Health Data</li>
+        <li>Causal Inference</li>
+        <li>Complex Systems</li>
+        <li>Health Data Science</li>
       </ul>
     </div>
     <div class="interest-col">
