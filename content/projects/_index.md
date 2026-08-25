@@ -1,6 +1,6 @@
 +++
 title = "Projects"
-description = "data for good 🤓, data for me 🤡"
+description = "for good 🤓, for me 🤡"
 sort_by = "weight"
 template = "section.html"
 +++

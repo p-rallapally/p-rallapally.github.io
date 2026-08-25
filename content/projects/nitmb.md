@@ -1,7 +1,7 @@
 +++
 title = "NITMB"
 description = "taking the math pill"
-weight = 1
+weight = 5
 
 [extra]
 label = "su24"

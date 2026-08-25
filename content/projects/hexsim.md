@@ -1,7 +1,7 @@
 +++
 title = "HexSim"
 description = "the sims! for frogs! name unrelated!"
-weight = 2
+weight = 4
 
 [extra]
 label = "f24-s25"
@@ -35,7 +35,7 @@ A spatially explicit simulation model to predict invasive bullfrog populations a
 
 - Spatial modeling is awesome and easy on the eyes despite GIS software being hard on the brain
 - I wanted to learn more about the behind the scenes behind how the modeling worked; I was hoping to be more involved with the mechanisms (versus plugging in values and hoping for the best). There's some very cool math going on in the underlying Leslie matrix models.
-- I liked having a clear application; in this case, the obvious benefit of HexSim was that it allowed the (currently underfunded) park rangers to allocate manpower based on the model's predicted hotspots. I got to be on some very cool Zoom calls with the East Bay Parks Dept  
+- I liked having a clear application; in this case, the obvious benefit of HexSim was that it allowed the (currently underfunded) park rangers to allocate manpower based on the model's predicted hotspots. I got to be on some very cool Zoom calls with the East Bay Parks Dept.  
 - The importance of marketing; making math-averse audiences care about simulation modeling 🤓 was initially a Herculean task; framing HexSim like a video game (my go to was "the Sims for frogs") and slandering bullfrogs as insidious hellspawn had everyone eating out of the palm of my hand. I quite liked this part.
 
 

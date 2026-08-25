@@ -1,14 +1,14 @@
 +++
 title = "RecRec"
 description = "please stop making me wake up at 6am"
-weight = 4
+weight = 2
 
 [extra]
 label = "s26"
 type = "🤡"
 +++
 
-(tldr; selfish forecasting model became a recommender system for the people)
+(tldr; selfish forecasting model became a recommender for the people)
 
 **What it is**
 
@@ -17,7 +17,7 @@ A web application that predicts Rec Cen occupancy and generates personalized wor
 **Context**
 
 Like at many schools, the Rec Cen at UCSB has a tendency to be full during peak hours. Unfortunate for many reasons, the bigger ones being: 
-1) workouts take longer than they need to
+1) Workouts take longer than they need to
 2) I hate asking or being asked "how many sets do you have left?"
 
 Luckily, the Rec Cen website [publicly displays](https://recreation.ucsb.edu/facilities/livecount) how many people are in each part of the gym. My initial pet project was to scrape the data and build a prediction model for myself to identify low/high-occupancy times (was eventually offloaded to my good friend and roommate [Erik](https://www.linkedin.com/in/erod298/)). Preliminary results, affirming common sense, revealed that the emptiest time —always and everywhere— was 6am.
