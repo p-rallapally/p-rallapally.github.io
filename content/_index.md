@@ -26,8 +26,8 @@ Here are some things I'm into:
     <div class="interest-col">
       <h2>🤡</h2>
       <ul>
-        <li>Bay Area Sports 🦈🏀 </li>
         <li>Saturday Night Live</li>
+        <li>Bay Area Sports 🦈🏀 </li>
         <li>Teaching people how to juggle!</li>
       </ul>
     </div>
@@ -35,8 +35,9 @@ Here are some things I'm into:
 </section>
 
 
+
 Some other miscellaneous fun facts about me: 
 
 - I'm one of six people that play the [carillon](https://music.ucsb.edu/participate/ensembles/carillon) at UCSB
 - I performed the national anthem for the [worst game in Oakland A's history](https://en.wikipedia.org/wiki/Domingo_Germ%C3%A1n's_perfect_game)
-- I have a 2482 day streak on Duolingo
+- I have a 2500 day streak on Duolingo
