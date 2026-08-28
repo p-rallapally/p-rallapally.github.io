@@ -6,6 +6,8 @@ Hello! 😁
 
 I'm Pratyush; I study statistics, biology, and math at UC Santa Barbara.
 
+Getting ragebaited online stopped being fulfilling, so I made this instead!
+
  - [Here](/projects/) are some things I've done
  - [These](/now/) are what I'm currently occupied with
  - [This](/name/) is how you say my name
@@ -16,9 +18,9 @@ Here are some things I'm into:
     <div class="interest-col">
       <h2>🤓</h2>
       <ul>
-        <li>Causal Inference</li>
         <li>Complex Systems</li>
         <li>Health Data Science</li>
+         <li>Science Communication</li>
       </ul>
     </div>
     <div class="interest-col">
@@ -31,6 +33,8 @@ Here are some things I'm into:
     </div>
   </div>
 </section>
+
+
 
 Some other miscellaneous fun facts about me: 
 

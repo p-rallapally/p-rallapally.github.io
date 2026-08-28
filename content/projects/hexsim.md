@@ -21,14 +21,14 @@ A spatially explicit simulation model to predict invasive bullfrog populations a
 
 **What I did** 
 1) Combed through every documentation of the [HexSim](https://www.hexsim.net/) software
-2) Taught myself qGIS and parameterized the model using GIS data, field census data, and ecological literature
+2) Taught myself QGIS and parameterized the model using GIS data, field census data, and ecological literature
 3) Built and refined life-history and movement processes with HexSim to simulate bullfrog population dynamics across Pleasanton Ridge 
 4) Used simulation outputs[^2] to visualize individual trajectories and identify likely population + disease hotspots
 5) Presented work at EEMB URS (won Best Poster), UCSB Undergrad Slam (was a Finalist), and RACA-CON (a CCS-exclusive research event)
 
 **What was hard**
 - HexSim as a software is incredibly feature-rich and comprehensive; it took me a while to figure out how to find the functionality I needed
-- qGIS was a hill to climb
+- QGIS was a hill to climb
 - Bullfrog parameters are surprisingly hard to come by; the few papers that had real measurements were straight from the 70s
 
 **What I learned**

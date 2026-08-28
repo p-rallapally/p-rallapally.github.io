@@ -8,7 +8,7 @@ label = "su24"
 type = "🤓"
 +++
 
-(tldr; toured Chicagoland and learned how ubiquitous math is)
+(tldr; toured Chicagoland and learned how sick math is)
 
 **What it is** 
 

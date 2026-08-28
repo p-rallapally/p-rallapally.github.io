@@ -39,7 +39,7 @@ Our job was to take their datasets of probation outcomes and evaluate the predic
 
 - The department had a very strict data privacy policy (naturally, each row was someone's darkest moment), which included signing several NDAs, waiting several weeks per data request, and having to analyse the data through a school-secured Jupyter server
 - Defining outcomes: we had to subjectively determine what counted as "recidivism" over what periods. We also had to choose which predictive variables were included; "domestic violence" should, but "unhoused"? "Marital status"? 
-- Imbalanced subgroups: SLO is mostly White and Hispanic; you can imagine what would happen to a tool's predictions if it encountered an Asian woman when there weren't any in the data
+- Imbalanced subgroups: SLO is mostly White and Hispanic; you can imagine what would happen to a tool's predictions for an Asian woman when there weren't any in the data
 - Along the lines of the above, several of the assessment datasets didn't overlap, and many outcomes were rare (ex: violent rearrests), which also skewed the evaluation
 - What exactly counts as "fair"?
 
@@ -50,6 +50,6 @@ Our job was to take their datasets of probation outcomes and evaluate the predic
 
 **In hindsight**
 
-In comparison to the ivory tower data science I was mostly working with thus far, it was refreshing to work with boots-on-the-ground statistics with real stakeholders on the other end. The idea of being "the translator" was a recurring theme that was reinforced by the end.
+In comparison to the ivory tower data science I was mostly working with thus far, it was refreshing to work with boots-on-the-ground stuff with real stakeholders on the other end. The idea of being "the translator" was a recurring theme that was reinforced by the end.
 
-The tools worked fine; some range in predictive accuracy, but generally higher assessment scores corresponded with worse outcomes, so as far as anyone in the SLO Probation Dept is concerned, justice is served. 
+The tools worked fine; some range in predictive accuracy, but generally more dangerous scores corresponded with worse outcomes, so as far as anyone in the SLO Probation Dept is concerned, justice is served-ish. 
