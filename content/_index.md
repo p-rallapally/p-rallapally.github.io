@@ -4,7 +4,7 @@ title = "Home"
 
 Hello! 😁 
 
-I'm Pratyush; I study statistics, biology, and math at UC Santa Barbara.
+I'm Pratyush; I study statistics, biology, and math at UC Santa Barbara 🦝.
 
 Getting ragebaited online stopped being fulfilling, so I made this instead!
 
